@@ -1,0 +1,62 @@
+.motor-sekmesi { 
+    background-color: rgb(238, 238, 238);
+    height: 60px;
+    width: 1500px;
+    float:left;
+    margin-left: 85px;
+    margin-bottom: 3px;
+    padding: 0;
+}
+
+#web {
+    margin: 0px;
+    padding: 0px;
+} 
+
+.search {
+    width: 300px;
+}
+
+button.motor-button {
+    height:20px;
+    width:105px
+}
+
+button.motor-button-ikinci {
+    height:20px;
+    width:120px
+}
+
+.cube-1 {
+    background-color: rgb(126, 229, 218);
+    height: 65px;
+    width: 577px;
+    float:left;
+    margin-left: 85px;
+    padding: 3px;
+}
+
+.cube-2 {
+    background-color: rgb(112, 204, 194);
+    height: 65px;
+    width: 250px;
+    float:left;
+    margin-left: 2px;
+    padding: 3px;
+}
+
+.cube-3 {
+    background-color: rgb(98, 179, 170);
+    height: 65px;
+    width: 650px;
+    float:left;
+    margin-left: 2px;
+    padding: 3px;
+    font-size: smaller;
+}
+
+.copyright {
+    float:left;
+    margin-left: 750px;
+    font-size: small;
+}
